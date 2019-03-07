@@ -1,0 +1,4 @@
+UNDEFINED;
+Means a variable has been declared but has not yet been assigned a value.
+NULL;
+An assignment value that can be assigned to be a variable as a represantation ofno value.q1	`	
