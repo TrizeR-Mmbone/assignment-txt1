@@ -1,0 +1,10 @@
+DECLARATION;
+Is declaring a variable and allocating a block of memory but still the variable hs no value.
+
+
+DEFINATION;
+Assigning or initializing  a variable with some specific value.
+
+
+INITIALIZATION;
+Specification of the initial value to be stored in an object ,which is not  neccesaryily the same as the first time you explicitly assign avalue to it.
